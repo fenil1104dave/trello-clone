@@ -1,8 +1,9 @@
-# React + Vite
+# Trello React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### Running the project locally
 
-Currently, two official plugins are available:
+1. Installing node modules
+   `npm i`
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+2. Starting the local development server
+   `npm run dev`
